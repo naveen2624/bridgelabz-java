@@ -36,4 +36,3 @@ The `feature/CoreProgramming` branch includes programs covering:
 - Understand Git branching strategies
 - Maintain clean and organized code
 - Track learning progress during Capgemini training
----
