@@ -1,7 +1,10 @@
-# Capgemini Training 
+# Capgemini Training
+
 This repository is created as part of the Capgemini Java Training Program.
 It follows a structured Git branching strategy to organize learning modules and programming practice effectively.
+
 ---
+
 ## Branch Structure
 - **main**
     
@@ -19,6 +22,7 @@ The `feature/CoreProgramming` branch includes programs covering:
 - Programming Elements
 
 ---
+
 ## Tools & Technologies
 
 - Language: Java
