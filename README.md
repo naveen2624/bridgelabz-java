@@ -1,4 +1,6 @@
-# Git Flow Repository
+# BridgeLabz Java Training
+---
+## Git Flow Repository
 
 This repository is created as part of the Capgemini Java Training Program.
 It follows a structured Git branching strategy to organize learning modules and programming practice effectively.
