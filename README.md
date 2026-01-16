@@ -1,5 +1,9 @@
 # BridgeLabz Java Training
 
+# BridgeLabz Training
+
+This repository is created as part of the Bridgelabz Java Training Program.
+
 ---
 
 ## Daily Progress Log – BridgeLabz Training
