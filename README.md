@@ -30,18 +30,24 @@
 
 - 23-Dec-2025 (Tuesday): Methods – Level 3 and Strings.
 
-- 09-Jan-2026 (Friday): Joined BridgeLabz Java training continuation. Environment walkthrough and overview of Java backend training.
+- 08-Jan-2026 (Thursday): Joined BridgeLabz Java training continuation. Environment walkthrough and overview of Java backend training. Worked on GitFlow.
 
-- 10-Jan-2026 (Saturday): Revised Java basics including variables, data types, operators, and input/output handling.
+- 09-Jan-2026 (Friday): Revised Java basics including variables, data types, operators, and input/output handling.
 
-- 11-Jan-2026 (Sunday): Practiced Programming Elements and solved related Java problems.
+- 10-Jan-2026 (Saturday): Practiced Programming Elements and solved level1 and level2 in Programming Elements.
 
-- 12-Jan-2026 (Monday): Continued Programming Elements and strengthened logical problem-solving skills.
+- 11-Jan-2026 (Sunday): Solved Control Flow Level 1 and Level 2 programs and committed changes to feature/CoreProgramming branch.
 
-- 13-Jan-2026 (Tuesday): Studied Control Flow concepts including conditional statements and loops.
+- 12-Jan-2026 (Monday): Absent [Worked on Arrays and completed Level 1 and Level 2 Programs]
 
-- 14-Jan-2026 (Wednesday): Solved Control Flow Level 1 and Level 2 programs and committed changes to feature/CoreProgramming branch.
+- 13-Jan-2026 (Tuesday): Absent [Worked on Methods Level 1 and 2 and Strings Level 1]  
 
-15-Jan-2026 (Thursday): Completed Control Flow Level 3 programs. Practiced Arrays and solved array-based problems.
+- 14-Jan-2026 (Wednesday): Absent [Worked on Strings Level 2]
 
-16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git and Git Flow process, branch creation, publishing, and daily workflow management.
+- 15-Jan-2026 (Thursday): Holiday [Started Object Oriented Programming Learned the concepts of Class, Objects, Constructers, etc.
+
+- 16-Jan-2026 (Friday): Worked on Git Repo Changed the Structure of the Repo based on Suggestions
+
+- 17-Jan-2026 (Saturday): Worked on Code added Single line and Multi Line Comments to all programs. Solved Class and Objects Level 1 and Level 2 Programs and Started Constructers Level 1 Programs
+
+- 18-Jan-2026 (Sunday): Solved Constructers Level 1 and Level 2 and started static, final programs
