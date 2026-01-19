@@ -51,3 +51,5 @@
 - 17-Jan-2026 (Saturday): Worked on Code added Single line and Multi Line Comments to all programs. Solved Class and Objects Level 1 and Level 2 Programs and Started Constructers Level 1 Programs
 
 - 18-Jan-2026 (Sunday): Solved Constructers Level 1 and Level 2 and started static, final programs
+
+- 19-Jan-2026 (Monday): Worked on Git Commit messages and started working on Object modeling programs
