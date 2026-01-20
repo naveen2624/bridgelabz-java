@@ -1,4 +1,5 @@
-package Arrays;
+package arrays.level1;
+
 
 import java.util.Scanner;
 

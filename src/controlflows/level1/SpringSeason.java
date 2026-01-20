@@ -1,4 +1,4 @@
-package ControlFlows.Level1;
+package arrays.level2;
 
 public class SpringSeason {
     public static void main(String[] args) {

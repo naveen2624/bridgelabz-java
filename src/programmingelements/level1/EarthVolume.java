@@ -1,4 +1,5 @@
-package ProgrammingElements.Level1;
+package programmingelements.level1;
+
 public class EarthVolume {
     public static void main(String[] args) {
         double radiusKm = 6378;

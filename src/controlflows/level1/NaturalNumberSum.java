@@ -1,4 +1,5 @@
-package ControlFlows.Level1;
+package arrays.level2;
+
 import java.util.Scanner;
 
 public class NaturalNumberSum {

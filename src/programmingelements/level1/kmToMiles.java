@@ -1,4 +1,4 @@
-package ProgrammingElements.Level1;
+package programmingelements.level1;
 
 public class kmToMiles {
     public static void main(String[] args){

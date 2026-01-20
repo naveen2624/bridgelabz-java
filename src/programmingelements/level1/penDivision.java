@@ -1,4 +1,4 @@
-package ProgrammingElements.Level1;
+package programmingelements.level1;
 
 public class penDivision {
         public static void main(String[] args) {

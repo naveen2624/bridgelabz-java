@@ -1,4 +1,5 @@
-package ProgrammingElements.Level1;
+package programmingelements.level1;
+
 import java.util.Scanner;
 public class KmToMilesUserInput {
         public static void main(String[] args) {

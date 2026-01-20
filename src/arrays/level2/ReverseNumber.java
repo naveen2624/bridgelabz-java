@@ -1,4 +1,4 @@
-package Arrays.Level2;
+package arrays.level2;
 
 import java.util.Scanner;
 
