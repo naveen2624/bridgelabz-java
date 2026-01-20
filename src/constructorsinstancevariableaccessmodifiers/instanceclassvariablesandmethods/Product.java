@@ -2,6 +2,7 @@ package constructorsinstancevariableaccessmodifiers.instanceclassvariablesandmet
 
 public class Product {
 
+
     // Instance variable to store product name
     String productName;
 
@@ -43,4 +44,5 @@ public class Product {
         // Displaying total number of products created
         Product.displayTotalProducts();
     }
+
 }
