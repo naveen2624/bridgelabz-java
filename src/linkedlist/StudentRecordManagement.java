@@ -1,105 +1,99 @@
 package linkedlist;
+class StudentRecordManagement {
 
-class StudentNode {
-    int rollNo;
-    String name;
-    int age;
-    char grade;
-    StudentNode next;
+    // Node class
+    static class Student {
+        int rollNo;
+        String name;
+        int age;
+        char grade;
+        Student next;
 
-    StudentNode(int rollNo, String name, int age, char grade) {
-        this.rollNo = rollNo;
-        this.name = name;
-        this.age = age;
-        this.grade = grade;
-        this.next = null;
+        Student(int rollNo, String name, int age, char grade) {
+            this.rollNo = rollNo;
+            this.name = name;
+            this.age = age;
+            this.grade = grade;
+            this.next = null;
+        }
     }
-}
 
-class StudentLinkedList {
+    Student head = null;
 
-    StudentNode head;
-
-    // Add at Beginning
+    // 1. Add at beginning
     void addAtBeginning(int rollNo, String name, int age, char grade) {
-        StudentNode newNode = new StudentNode(rollNo, name, age, grade);
-        newNode.next = head;
-        head = newNode;
+        Student newStudent = new Student(rollNo, name, age, grade);
+        newStudent.next = head;
+        head = newStudent;
     }
 
-    // Add at End
+    // 2. Add at end
     void addAtEnd(int rollNo, String name, int age, char grade) {
-        StudentNode newNode = new StudentNode(rollNo, name, age, grade);
+        Student newStudent = new Student(rollNo, name, age, grade);
 
         if (head == null) {
-            head = newNode;
+            head = newStudent;
             return;
         }
 
-        StudentNode temp = head;
-        while (temp.next != null) {
+        Student temp = head;
+        while (temp.next != null)
             temp = temp.next;
-        }
-        temp.next = newNode;
+
+        temp.next = newStudent;
     }
 
-    // Add at Specific Position
-    void addAtPosition(int position, int rollNo, String name, int age, char grade) {
-        if (position == 1) {
+    // 3. Add at specific position (1-based index)
+    void addAtPosition(int pos, int rollNo, String name, int age, char grade) {
+        if (pos == 1) {
             addAtBeginning(rollNo, name, age, grade);
             return;
         }
 
-        StudentNode newNode = new StudentNode(rollNo, name, age, grade);
-        StudentNode temp = head;
-
-        for (int i = 1; i < position - 1 && temp != null; i++) {
+        Student temp = head;
+        for (int i = 1; i < pos - 1 && temp != null; i++)
             temp = temp.next;
-        }
 
         if (temp == null) {
             System.out.println("Invalid position");
             return;
         }
 
-        newNode.next = temp.next;
-        temp.next = newNode;
+        Student newStudent = new Student(rollNo, name, age, grade);
+        newStudent.next = temp.next;
+        temp.next = newStudent;
     }
 
-    // Delete by Roll Number
+    // 4. Delete by Roll Number
     void deleteByRollNo(int rollNo) {
-        if (head == null) {
-            System.out.println("List is empty");
+        if (head == null)
             return;
-        }
 
         if (head.rollNo == rollNo) {
             head = head.next;
-            System.out.println("Student deleted");
+            System.out.println("Student record deleted");
             return;
         }
 
-        StudentNode temp = head;
-        while (temp.next != null && temp.next.rollNo != rollNo) {
+        Student temp = head;
+        while (temp.next != null && temp.next.rollNo != rollNo)
             temp = temp.next;
-        }
 
         if (temp.next == null) {
             System.out.println("Student not found");
-        } else {
-            temp.next = temp.next.next;
-            System.out.println("Student deleted");
+            return;
         }
+
+        temp.next = temp.next.next;
+        System.out.println("Student record deleted");
     }
 
-    // Search by Roll Number
-    void searchStudent(int rollNo) {
-        StudentNode temp = head;
-
+    // 5. Search by Roll Number
+    void searchByRollNo(int rollNo) {
+        Student temp = head;
         while (temp != null) {
             if (temp.rollNo == rollNo) {
-                System.out.println("Student Found:");
-                displayStudent(temp);
+                System.out.println("Found: " + temp.name + ", Grade: " + temp.grade);
                 return;
             }
             temp = temp.next;
@@ -107,14 +101,13 @@ class StudentLinkedList {
         System.out.println("Student not found");
     }
 
-    // Update Grade
+    // 6. Update grade
     void updateGrade(int rollNo, char newGrade) {
-        StudentNode temp = head;
-
+        Student temp = head;
         while (temp != null) {
             if (temp.rollNo == rollNo) {
                 temp.grade = newGrade;
-                System.out.println("Grade updated successfully");
+                System.out.println("Grade updated");
                 return;
             }
             temp = temp.next;
@@ -122,52 +115,48 @@ class StudentLinkedList {
         System.out.println("Student not found");
     }
 
-    // Display All Students
+    // 7. Display all students
     void displayAll() {
         if (head == null) {
             System.out.println("No student records");
             return;
         }
 
-        StudentNode temp = head;
+        Student temp = head;
         while (temp != null) {
-            displayStudent(temp);
+            System.out.println(
+                    "Roll No: " + temp.rollNo +
+                            ", Name: " + temp.name +
+                            ", Age: " + temp.age +
+                            ", Grade: " + temp.grade
+            );
             temp = temp.next;
         }
     }
 
-    // Helper method
-    void displayStudent(StudentNode s) {
-        System.out.println(
-                "Roll No: " + s.rollNo +
-                        ", Name: " + s.name +
-                        ", Age: " + s.age +
-                        ", Grade: " + s.grade
-        );
-    }
-}
-class StudentRecordManagement {
+    // MAIN METHOD
     public static void main(String[] args) {
+        StudentRecordManagement srm = new StudentRecordManagement();
 
-        StudentLinkedList list = new StudentLinkedList();
+        srm.addAtBeginning(1, "Naveen", 20, 'A');
+        srm.addAtEnd(2, "Rahul", 21, 'B');
+        srm.addAtEnd(3, "Anita", 19, 'A');
+        srm.addAtPosition(2, 4, "Kiran", 22, 'C');
 
-        list.addAtBeginning(1, "Naveen", 20, 'A');
-        list.addAtEnd(2, "Arjun", 21, 'B');
-        list.addAtPosition(2, 3, "Ravi", 22, 'C');
-
-        System.out.println("\nAll Students:");
-        list.displayAll();
+        System.out.println("All Student Records:");
+        srm.displayAll();
 
         System.out.println("\nSearching Roll No 2:");
-        list.searchStudent(2);
+        srm.searchByRollNo(2);
 
-        System.out.println("\nUpdating Grade of Roll No 3:");
-        list.updateGrade(3, 'A');
+        System.out.println("\nUpdating Grade of Roll No 4:");
+        srm.updateGrade(4, 'B');
 
         System.out.println("\nDeleting Roll No 1:");
-        list.deleteByRollNo(1);
+        srm.deleteByRollNo(1);
 
-        System.out.println("\nFinal Student List:");
-        list.displayAll();
+        System.out.println("\nFinal Student Records:");
+        srm.displayAll();
     }
 }
+
