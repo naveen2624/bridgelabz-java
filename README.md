@@ -2,8 +2,6 @@
 
 ## Daily Progress Log
 
-This repository documents my day-wise learning progress during the **BridgeLabz Java Training Program**, covering Java fundamentals, Git, OOPs, Data Structures, and Algorithms.
-
 ---
 
 ### December 2025
@@ -115,6 +113,3 @@ This repository documents my day-wise learning progress during the **BridgeLabz 
   Completed Algorithm Runtime Analysis programs.
 
 ---
-
-
-📌 *This README serves as a structured learning log and progress tracker for my BridgeLabz Java Training journey.*
