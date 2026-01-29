@@ -107,9 +107,20 @@
 - **23 Jan 2026 (Friday)**  
   Completed Sorting algorithms and Linear & Binary Search programs.  
   Started Java OOPS Banner project.
-
+ 
 - **24 Jan 2026 (Saturday)**  
   Completed Java OOPS Banner project.  
   Completed Algorithm Runtime Analysis programs.
+
+- **27 Jan 2026 (Tuesday)**
+  Gave Review on OOPS.
+  Worked on the Review Comments.
+ 
+- **28 Jan 2026 (Wednesday)**
+  Started Java Generic Programs
+ 
+- **29 Jan 2026 (Thursday)**
+  Completed Java Generic Programs.
+  Started Collection Programs.
 
 ---
