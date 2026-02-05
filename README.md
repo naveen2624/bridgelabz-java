@@ -120,7 +120,32 @@
   Started Java Generic Programs
  
 - **29 Jan 2026 (Thursday)**
+  Did Core Programming and Scenario based Assignment
+  
+- **30 Jan 2026 (Friday)**
   Completed Java Generic Programs.
   Started Collection Programs.
+
+- **31 Jan 2026 (Saturday)**
+  Did Collection Programs and gave viva on Datastructures
+
+---
+
+
+- **2 Feb 2026 (Monday)**
+  Completed Collections Program
+  Started IO Streams Program
+
+- **3 Feb 2026 (Tuesday)**
+  Started Console-Based Assignment
+  Completed IO Streams Programs
+
+- **4 Feb 2026 (Wednesday)**
+  Completed Console-Based Assignment
+  Started Regex and JUnit
+
+- **5 Feb 2026 (Thursday)**
+  Completed Regex and JUnit
+  Started Java8 Features
 
 ---
