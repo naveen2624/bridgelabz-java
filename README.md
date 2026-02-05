@@ -133,8 +133,8 @@
 
 
 - **2 Feb 2026 (Monday)**
-  Completed Collections Program
-  Started IO Streams Program
+    Completed Collections Program
+    Started IO Streams Program
 
 - **3 Feb 2026 (Tuesday)**
   Started Console-Based Assignment
