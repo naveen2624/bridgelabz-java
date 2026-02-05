@@ -112,39 +112,39 @@
   Completed Java OOPS Banner project.  
   Completed Algorithm Runtime Analysis programs.
 
-- **27 Jan 2026 (Tuesday)**
+- **27 Jan 2026 (Tuesday)**  
   Gave Review on OOPS.
   Worked on the Review Comments.
  
-- **28 Jan 2026 (Wednesday)**
+- **28 Jan 2026 (Wednesday)**  
   Started Java Generic Programs
  
-- **29 Jan 2026 (Thursday)**
+- **29 Jan 2026 (Thursday)**  
   Did Core Programming and Scenario based Assignment
   
-- **30 Jan 2026 (Friday)**
+- **30 Jan 2026 (Friday)**  
   Completed Java Generic Programs.
   Started Collection Programs.
 
-- **31 Jan 2026 (Saturday)**
+- **31 Jan 2026 (Saturday)**  
   Did Collection Programs and gave viva on Datastructures
 
 ---
 
 
-- **2 Feb 2026 (Monday)**
+- **2 Feb 2026 (Monday)**  
     Completed Collections Program
     Started IO Streams Program
 
-- **3 Feb 2026 (Tuesday)**
+- **3 Feb 2026 (Tuesday)**  
   Started Console-Based Assignment
   Completed IO Streams Programs
 
-- **4 Feb 2026 (Wednesday)**
+- **4 Feb 2026 (Wednesday)**  
   Completed Console-Based Assignment
   Started Regex and JUnit
 
-- **5 Feb 2026 (Thursday)**
+- **5 Feb 2026 (Thursday)**  
   Completed Regex and JUnit
   Started Java8 Features
 
