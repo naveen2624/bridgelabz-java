@@ -1,4 +1,4 @@
-package csvdatahandling.csvfiles;
+package csvdatahandling;
 
 import java.io.*;
 import java.util.*;
