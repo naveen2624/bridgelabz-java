@@ -1,4 +1,4 @@
-package ioprogramming.multithreading;
+package multithreading;
 import java.util.Scanner;
 
 /*

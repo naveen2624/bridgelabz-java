@@ -1,4 +1,6 @@
+package designpattern;
 import java.util.*;
+
 
 /*
  Composite Pattern

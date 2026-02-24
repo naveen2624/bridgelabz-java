@@ -1,4 +1,4 @@
-package ioprogramming.designpattern;
+package designpattern;
 /*
  Visitor Pattern
  Separate algorithm from object structure

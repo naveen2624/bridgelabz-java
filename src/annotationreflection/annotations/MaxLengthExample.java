@@ -1,4 +1,4 @@
-package ioprogramming.annotations.annotations;
+package annotationreflection.annotations;
 import java.lang.annotation.*;   // Import classes required for defining custom annotations
 import java.lang.reflect.*;     // Import reflection classes such as Field
 

@@ -1,4 +1,4 @@
-package ioprogramming.annotations.annotations;
+package annotationreflection.annotations;
 import java.lang.annotation.*;
 import java.lang.reflect.*;
 

@@ -1,4 +1,4 @@
-package ioprogramming.designpattern;
+package designpattern;
 import java.util.Scanner;
 
 /* Car interface */

@@ -1,4 +1,4 @@
-package ioprogramming.annotations.annotations;
+package annotationreflection.annotations;
 import java.util.Scanner;
 
 /*

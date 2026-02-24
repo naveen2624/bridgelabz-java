@@ -1,5 +1,4 @@
-package ioprogramming.designpattern;
-import java.util.Scanner;
+package designpattern;
 
 /*
  State Pattern

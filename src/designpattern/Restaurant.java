@@ -1,4 +1,4 @@
-package ioprogramming.designpattern;
+package designpattern;
 /*
  Template Method Pattern
  Defines skeleton of algorithm

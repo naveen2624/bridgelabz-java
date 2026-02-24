@@ -1,4 +1,4 @@
-package annotations;
+package annotationreflection.annotations;
 import java.util.ArrayList;
 
 public class SuppressWarningExample{

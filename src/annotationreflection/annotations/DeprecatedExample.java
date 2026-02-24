@@ -1,4 +1,4 @@
-package ioprogramming.annotations.annotations;
+package annotationreflection.annotations;
 /*
  Class representing an old API
 */
