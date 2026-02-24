@@ -24,6 +24,8 @@
 - **13 Dec 2025 (Saturday)**  
   Started with C# basics.
 
+---
+
 - **15 Dec 2025 (Monday)**  
   Programming Elements – Level 1.
 
@@ -42,13 +44,14 @@
 - **20 Dec 2025 (Saturday)**  
   Practiced Git commands and Arrays – Level 2.
 
+---
+
 - **22 Dec 2025 (Monday)**  
   Methods – Level 1 and Level 2.
 
 - **23 Dec 2025 (Tuesday)**  
   Methods – Level 3 and Strings.
 
----
 
 ### January 2026
 
@@ -65,6 +68,8 @@
 - **11 Jan 2026 (Sunday)**  
   Solved Control Flow Level 1 and Level 2 programs; committed changes to  
   `feature/CoreProgramming` branch.
+
+---
 
 - **12 Jan 2026 (Monday)** *(Absent)*  
   Worked independently on Arrays – Level 1 and Level 2 programs.
@@ -90,7 +95,7 @@
 - **18 Jan 2026 (Sunday)**  
   Completed Constructors – Level 1 and Level 2.  
   Started `static` and `final` keyword programs.
-
+---
 - **19 Jan 2026 (Monday)**  
   Improved Git commit messages.  
   Started Object Modeling programs.
@@ -111,7 +116,10 @@
 - **24 Jan 2026 (Saturday)**  
   Completed Java OOPS Banner project.  
   Completed Algorithm Runtime Analysis programs.
-
+---
+- **26 Jan 2026 (Monday)**
+  Holiday Republic Day
+  
 - **27 Jan 2026 (Tuesday)**  
   Gave Review on OOPS.
   Worked on the Review Comments.
@@ -133,8 +141,8 @@
 
 
 - **2 Feb 2026 (Monday)**  
-    Completed Collections Program
-    Started IO Streams Program
+  Completed Collections Program
+  Started IO Streams Program
 
 - **3 Feb 2026 (Tuesday)**  
   Started Console-Based Assignment
@@ -148,4 +156,59 @@
   Completed Regex and JUnit
   Started Java8 Features
 
+- **6 Feb 2026 (Friday)**  
+  Worked on Java 8 Features practice problems.
+
+- **7 Feb 2026 (Saturday)**  
+  Attended Power Skills session.
+
 ---
+
+- **9 Feb 2026 (Monday)**  
+  Studied for Viva on Java Generics and Collections
+
+- **10 Feb 2026 (Tuesday)**  
+  Attended weekly review on Java Generics and Collections.
+
+- **11 Feb 2026 (Wednesday)**  
+  Completed OceanFleetApp.
+
+- **12 Feb 2026 (Thursday)**  
+  Started working on Java CSV Data Handling Problems
+
+- **13 Feb 2026 (Friday)**  
+  Started Working on Annotation and reflection problems 
+
+- **14 Feb 2026 (Saturday)**  
+  Attended Power Skills training.  
+  Revised basic grammar and professional email writing.
+
+---
+
+- **16 Feb 2026 (Monday)**  
+  Completed problems on Trees and Graphs.  
+  Studied for Java 8 Features Review
+
+- **17 Feb 2026 (Tuesday)**  
+  Attended review on Java 8 features.
+
+- **18 Feb 2026 (Wednesday)**  
+  Worked on HackerRank problems.
+
+- **19 Feb 2026 (Thursday)**  
+  Worked on HackerRank problems.
+
+- **20 Feb 2026 (Friday)**  
+  Completed problems on Annotations and Design Patterns.  
+
+- **21 Feb 2026 (Saturday)**  
+  Attended Power Skills session.  
+  Gave a 3-minute speech on Curiosity.
+---
+
+- **23 Feb 2026 (Monday)**
+  Worked on Multithreading problems
+
+- **24 Feb 2026 (Tuesday)**
+  Studied for Review on Advanced Java
+  Worked on Quantity Measurement App UC1
