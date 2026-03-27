@@ -187,4 +187,123 @@
 
 - **24 Feb 2026 (Tuesday)** [Day 53]  
   Studied for Review on Advanced Java.  
-  Worked on Quantity Measurement App UC1.
+  Worked on Quantity Measurement App UC1.  
+- **25 Feb 2026 (Wednesday)** [Day 54]  
+  Worked on Quantity Measurement App UC2 and UC3  
+  Learned Database Basic Queries in SQL.
+  
+- **26 Feb 2026 (Thursday) [Day 55]**
+  - Studied for Review on Advanced Java.
+  - Continued Quantity Measurement App.
+
+- **27 Feb 2026 (Friday) [Day 56]**
+  - JDBC Maven Project setup.
+  - Implemented CRUD operations using JDBC.
+  - Practiced exception handling & DB connection.
+  - Viva conducted
+
+- **28 Feb 2026 (Saturday) [Day 57]**
+  - Completed Quantity Measurement App up to UC8.
+  - Refactoring and unit conversion improvements.
+  - Practiced unit operations (UC6, UC7, UC8).
+
+---
+
+## March 2026
+
+- **01 Mar 2026 (Sunday)**
+  - Continued Quantity Measurement enhancements.
+
+- **02 Mar 2026 (Monday)**
+  - JDBC Transactions concept.  
+  - Practice problems on transactions.  
+  - Worked on UC9 & UC10.  
+
+- **03 Mar 2026 (Tuesday)**
+  - Advanced Quantity Measurement (UC11–UC14).  
+  - Arithmetic operations & conversions.
+
+- **04 Mar 2026 (Wednesday)**
+  - JSON Data handling.
+  - Assignment submission for JSON.
+
+- **05 Mar 2026 (Thursday)**
+  - Tomcat Servlet introduction.
+  - Servlet-based assignment submission.
+
+- **06 Mar 2026 (Friday)**
+  - Continued Servlet concepts.
+  - Viva conducted
+
+- **07 Mar 2026 (Saturday)**
+  - Spring Framework introduction.
+
+- **08 Mar 2026 (Sunday)**
+  - Worked on Spring Framework
+
+- **09 Mar 2026 (Monday)**
+  - Spring Intro materials.
+  - Assignment submission.
+
+- **10 Mar 2026 (Tuesday)**
+  - Attendance via QR (Google Lens workaround).
+
+- **11 Mar 2026 (Wednesday)**
+  - Spring REST API basics.
+  - Request handling & API calls.
+
+- **12–14 Mar 2026**
+  - Practiced Spring Boot fundamentals.
+  - Built Greeting App (UC1–UC8).
+  - Learned project structure (controller, service, repository, model).
+
+- **15 Mar 2026 (Sunday)**
+  - Revision of Spring concepts.
+
+- **16 Mar 2026 (Monday)**
+  - Continued Spring Boot practice.
+  - Viva conducted
+
+- **17 Mar 2026 (Tuesday)**
+  - Multi-layer architecture in Spring.
+  - Assignment submission.
+
+- **18 Mar 2026 (Wednesday)**
+  - M1 Mock Exam
+
+- **19 Mar 2026 (Thursday)**
+  - Work From Home
+  - Spring Boot project improvements.
+
+- **20 Mar 2026 (Friday)**
+  - Spring Employee Payroll App setup.
+  - Service & repository layer implementation.
+
+- **21 Mar 2026 (Saturday)**
+  - Work From Home
+  - Continued Payroll App development.
+
+- **22 Mar 2026 (Sunday)**
+  - Revision & debugging Spring Boot app.
+
+- **23 Mar 2026 (Monday)**
+  - Final preparation for M1 exam.
+
+- **24 Mar 2026 (Tuesday)**
+  - M1 Exam
+
+- **25 Mar 2026 (Wednesday)**
+  - Worked on pending assignments.
+  - Improved project structure & cleanup.
+
+- **26 Mar 2026 (Thursday)**
+  - Continued Spring Boot (MySQL integration).
+  - DTO, Model mapping, validation.
+
+- **27 Mar 2026 (Friday)**
+  - Spring Boot Payroll App:
+    - MySQL Repository integration
+    - CRUD operations implemented
+    - DTO ↔ Entity mapping
+    - Validation applied
+  - Prepared for project review.
